@@ -14,8 +14,9 @@ documentation from meetings and notes taken, blog posts created, projects comple
 5. Assist with UX/Usability Study of Library portal to understand and gain experience in user experience studies, conducting interviews, and interpreting findings for action.
 
 # Weekly Learnings
-My weekly activities and learnings will be tracked in two ways. An excel sheet where I will track my daily time spent and summary of activities along with a PowerPoint deck
-that will updated weekly where I will summarize my weekly learnings and how I contributed to my projects/deliverables.
+My weekly activities and learnings will be tracked in two ways:
+An Excel sheet where I will track my daily time spent and summary of activities along with a PowerPoint deck that will be updated weekly where I will summarize my weekly 
+learnings and how I contributed to my projects/deliverables.
 
 # Projects
 
