@@ -19,5 +19,10 @@ An Excel sheet where I will track my daily time spent and summary of activities 
 learnings and how I contributed to my projects/deliverables.
 
 # Projects
+Deliverables to include:
+Evidence of UX Study including notes/deck of findings
+Market Research project that includes outline for future work
+Digital archive project with MS Archives
+Other TBD
 
 # Reflection
