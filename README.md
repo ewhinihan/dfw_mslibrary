@@ -15,14 +15,16 @@ documentation from meetings and notes taken, blog posts created, projects comple
 
 # Weekly Learnings
 My weekly activities and learnings will be tracked in two ways:
+
 An Excel sheet where I will track my daily time spent and summary of activities along with a PowerPoint deck that will be updated weekly where I will summarize my weekly 
 learnings and how I contributed to my projects/deliverables.
 
 # Projects
 Deliverables to include:
-Evidence of UX Study including notes/deck of findings
-Market Research project that includes outline for future work
-Digital archive project with MS Archives
-Other TBD
+        
+        Evidence of UX Study including notes/deck of findings
+        Market Research project that includes outline for future work
+        Digital archive project with MS Archives
+        Other TBD
 
 # Reflection
