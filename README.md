@@ -23,8 +23,8 @@ learnings and how I contributed to my projects/deliverables.
 Deliverables to include:
         
         Evidence of UX Study including notes/deck of findings
-        Market Research project that includes outline for future work
-        Digital archive project with MS Archives
-        Other TBD
+        Market Research project that includes outline for future work (draft uploaded each week to show progress)
+        Digital archive project with MS Archives (Excel sheet uploaded each week to show progress)
+        Contribution to NextRead program, Blog posts, MysteryBox blog post (Archives)
 
 # Reflection
