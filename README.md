@@ -9,21 +9,21 @@ documentation from meetings and notes taken, blog posts created, projects comple
 # Learning Outcomes
 1. General understanding of the Microsoft Library business, vision, and strategic plans; Overview of MS Library operations; Overview of Microsoft Archives operations, strategies, and workflows; Develop understanding of corporate library value to employees and the organization.
 2. Through hands on experience working with Microsoft Archives develop an understanding of heritage and history in corporate settings through an archival practice.
-3. Learn about and work with ProResearch team to understand how a centralized research service meets the needs of a multi-national corporation with a diverse product line and customer base.
-4. Learn about and gain experience with employee engagement, material curation, and assessing audience needs.
-5. Assist with UX/Usability Study of Library portal to understand and gain experience in user experience studies, conducting interviews, and interpreting findings for action.
+3. Create Expert Insights Playbook using third party research that will provide guidance for sharing targeted insights for Microsoft's strategic and cultural objectives. The goal will be to understand the business and market context and how the ProResearch team uses this content to analyze the needs of the company and employees. This will also allow for and understanding into how a centralized research service meets the needs of a multi-national corporation with a diverse product line and customer base.
+4. Learn about and gain experience with employee engagement, collection development, material curation, and assessing audience needs.
+5. Assist with UX/Usability Study of Library portal to understand and gain experience in user experience studies, conducting interviews, and interpreting findings for action and measurable improvement of the MS Library portal.
 
 # Weekly Learnings
 My weekly activities and learnings will be tracked in two ways:
 
 An Excel sheet where I will track my daily time spent and summary of activities along with a PowerPoint deck that will be updated weekly where I will summarize my weekly 
-learnings and how I contributed to my projects/deliverables.
+learnings and how I contributed to my projects/deliverables. On my Sway page, I will also include a weekly personal blog reflection.
 
 # Projects
 Deliverables to include:
         
-        Evidence of UX Study including notes/deck of findings
-        Market Research project that includes outline for future work (draft uploaded each week to show progress)
+        Evidence of UX Study including notes/deck of findings/white paper outlining findings
+        Market Research project (Expert Insights Playbook) that includes outline for future work (draft uploaded each week to show progress)
         Digital archive project with MS Archives (Excel sheet uploaded each week to show progress)
         Contribution to NextRead program, Blog posts, MysteryBox blog post (Archives)
 
