@@ -22,16 +22,22 @@ learnings and how I contributed to my projects/deliverables. My PowerPower deck 
 # Projects
 Deliverables included:
         
-        Evidence of UX Study: including notes of findings/white paper outlining outcomes along with three personas based on study findings.
+        Evidence of UX Study: including notes of findings/white paper outlining outcomes along with 
+        three personas based on study findings.
         
-        Expert Insights Playbook: Market Research project that includes outline for future work (draft uploaded each week to show progress) that shows evidence of
-        research around topic areas that are important to Microsoft and library customers and knowledge of event planning and implementation.
+        Expert Insights Playbook: Market Research project that includes outline for future work 
+        (draft uploaded each week to show progress) that shows evidence of research around topic 
+        areas that are important to Microsoft and library customers and knowledge of event planning 
+        and implementation.
         
-        Studios Migration Digital Archive Project: Excel sheet uploaded each week to show progress but this sheet will ultimately be removed as it contains
-        sensitive/confidential information about Microsoft that cannot be on a public facing website; PowerPoint deck will contain a summary slide about the project 
-        with totals calculated of videos reviewed and GB of duplicate material removed from collection. 
+        Studios Migration Digital Archive Project: Excel sheet uploaded each week to show progress but 
+        this sheet will ultimately be removed as it contains sensitive/confidential information about 
+        Microsoft that cannot be on a public facing website; PowerPoint deck will contain a summary slide 
+        about the project with totals calculated of videos reviewed and GB of duplicate material removed 
+        from collection. 
         
-        Giving Feedback Reading List (curated reading list that I created for the Library portal).
+        Giving Feedback Reading List (curated reading list that I created for the Library portal along
+        with proposed communications for promotion).
         
         PowerPoint deck that includes summary of weekly learnings.
 
