@@ -5,6 +5,7 @@ documentation from meetings and notes taken, documentation of final projects com
 
     Contributor: Erika Whinihan | erikaw9@uw.edu
     SWAY Project: https://sway.office.com/XMSxHSfZBf498ZNl?ref=Link
+    Total hours: 155 | Credits earned: 3
 
 # Learning Outcomes
 1. General understanding of the Microsoft Library business, vision, and strategic plans; Overview of MS Library operations; Overview of Microsoft Archives operations, strategies, and workflows; Develop understanding of corporate library value to employees and the organization.
