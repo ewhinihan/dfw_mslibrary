@@ -32,9 +32,9 @@ Deliverables included:
         
         Studios Migration Digital Archive Project: Excel sheet uploaded each week to show progress but 
         this sheet will ultimately be removed as it contains sensitive/confidential information about 
-        Microsoft that cannot be on a public facing website; PowerPoint deck will contain a summary slide 
+        Microsoft that cannot be on a public facing website; PowerPoint deck will contain a summary (slide 21)
         about the project with totals calculated of videos reviewed and GB of duplicate material removed 
-        from collection. 
+        from collection (total = 84.9GB). 
         
         Giving Feedback Reading List (curated reading list that I created for the Library portal along
         with proposed communications for promotion).
@@ -42,3 +42,14 @@ Deliverables included:
         PowerPoint deck that includes summary of weekly learnings.
 
 # Reflection
+Final reflection document included in this repository. Highlights:
+
+As part of the MS Library team, I gained valuable work experience and learned about how a corporate library supports employees and the business priorities of a multinational company.
+
+Through UX Study, I learned how users and their ability to find the information they need are at the center of the MS Library’s mission.
+
+Through MS Archives project, I gained experience searching and organizing hundreds of videos that will be part of the enduring digital legacy of Microsoft
+
+I gained experience with identifying a current need and curating a reading list to meet that need
+
+I learned about how the library operates and functions in supporting its customers with access to news, books, articles, research and how it interacts with the ProResearch team of librarians.
