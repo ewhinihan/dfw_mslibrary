@@ -42,14 +42,16 @@ Deliverables included:
         PowerPoint deck that includes summary of weekly learnings.
 
 # Reflection
-Final reflection document included in this repository. Highlights:
+Final reflection document included in this repository. 
+
+Highlights:
 
 As part of the MS Library team, I gained valuable work experience and learned about how a corporate library supports employees and the business priorities of a multinational company.
 
 Through UX Study, I learned how users and their ability to find the information they need are at the center of the MS Library’s mission.
 
-Through MS Archives project, I gained experience searching and organizing hundreds of videos that will be part of the enduring digital legacy of Microsoft
+Through MS Archives project, I gained experience searching and organizing hundreds of videos that will be part of the enduring digital legacy of Microsoft.
 
-I gained experience with identifying a current need and curating a reading list to meet that need
+I gained experience with identifying a current need and curating a reading list for MS Library customers.
 
-I learned about how the library operates and functions in supporting its customers with access to news, books, articles, research and how it interacts with the ProResearch team of librarians.
+I learned about how the MS Library operates and functions in supporting its customers with access to news, books, articles, research and how it interacts with the ProResearch team of librarians.
